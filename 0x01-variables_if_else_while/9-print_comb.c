@@ -17,6 +17,6 @@ int a;
 			putchar(' ');
 }
 	}
-putchhar('\n');
+putchar('\n');
 return (0);
 }
